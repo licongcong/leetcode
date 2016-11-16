@@ -6,6 +6,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |21|[Merge Two Sorted Lists](https://eetcode.com/problems/merge-two-sorted-lists/)|[C++](./algorithms/cpp/mergeTwoSortedLists/merge_two_sorted_lists.cc)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./algorithms/cpp/searchInsertPosition/search_insert_position.cc)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./algorithms/cpp/powxN/powx_n.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./algorithms/cpp/sqrtX/sqrt_x.cc)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./algorithms/cpp/maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./algorithms/cpp/excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
