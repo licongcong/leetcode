@@ -14,6 +14,7 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./algorithms/cpp/happyNumber/happy_number.cc)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./algorithms/cpp/uglyNumber/ugly_number.cc)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./algorithms/cpp/missingNumber/missing_number.cc)|Medium|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./algorithms/cpp/firstBadVersion/first_bad_version.cc)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./algorithms/cpp/powerOfFour/power_of_four.cc)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/cpp/validPerfectSquare/valid_perfect_square.cc)|Medium|
 
