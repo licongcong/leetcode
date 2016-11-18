@@ -4,6 +4,7 @@ LeetCode
 ###LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./algorithms/cpp/addTwoNumbers/add_two_numbers.cc)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./algorithms/cpp/mergeTwoSortedLists/merge_two_sorted_lists.cc)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./algorithms/cpp/searchForARange/search_for_a_range.cc)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./algorithms/cpp/searchInsertPosition/search_insert_position.cc)|Medium|
