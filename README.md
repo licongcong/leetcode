@@ -10,6 +10,7 @@ LeetCode
 |11|[Container with Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./algorithms/containerWithMostWater/container_with_most_water.cc)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./algorithms/validParentheses/valid_parentheses.cc)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./algorithms/mergeTwoSortedLists/merge_two_sorted_lists.cc)|Easy|
+|27|[Remove ELement](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/removeElement/remove_element.cc)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./algorithms/searchForARange/search_for_a_range.cc)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./algorithms/searchInsertPosition/search_insert_position.cc)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./algorithms/powxN/powx_n.cc)|Medium|
