@@ -27,7 +27,6 @@ class Solution {
 
     int low = 0;
     int high = nums.size() - 1;
-    int temp;
     while (low <= high) {
       if (nums[low] != val) {
         low++;
@@ -39,14 +38,13 @@ class Solution {
         continue;
       }
 
-      if ((nums[low] == val) && (nums[high] != val)) {
-        temp = nums[low];
-        nums[low] = nums[high];
-        nums[high] = temp;
-        low++;
-        high--;
-      }
+      // nums[low] == val and nums[high] != val
+      // swap nums[low] and nums[high]
+      swap(nums[low], nums[high]);
+      low++;
+      high--;
     }
+
     return low;
   }
 };
