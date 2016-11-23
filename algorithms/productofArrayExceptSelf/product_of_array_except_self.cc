@@ -21,10 +21,10 @@ class Solution {
  public:
   vector<int> productExceptSelf(vector<int>& nums) {
     vector<int> result{1};
-    // result[1] = 1
-    // result[2] = 1 * nums[1]
-    // result[3] = 1 * nums[1] * nums[2]
-    // result[4] = 1 * nums[1] * nums[2] * nums[3];
+    // result[0] = 1
+    // result[1] = 1 * nums[0]
+    // result[2] = 1 * nums[0] * nums[1]
+    // result[3] = 1 * nums[0] * nums[1] * nums[2];
     // ...
     for (int i=0; i < nums.size()-1; i++) {
       result.push_back(result[i] * nums[i]);
