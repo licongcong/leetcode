@@ -28,4 +28,5 @@ LeetCode Algorithm
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./powerOfFour/power_of_four.cc)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./isSubsequence/is_subsequence.cc)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./assignCookies/assign_cookies.cc)|Easy|
