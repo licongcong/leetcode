@@ -4,9 +4,11 @@ Up to date (2016-11-23), there are `429` Algorithms / `13` Database / `4` Shell 
 The number of questions is increasing recently.
 
 ### My sulotion
-[Leetcode Algorithms Problems](./algorithms/README.md)
+updating...
 
-[Leetcode Database Problems](./database/README.md)
+[Leetcode Algorithms Problems](./algorithms/README.md)  I have solved `54`/`429` problems.
+
+[Leetcode Database Problems](./database/README.md)  I have solved `2`/`13` problems.
 
 ### Links:
 [Leetcode Algorithms Problems](https://leetcode.com/problemset/algorithms/)
