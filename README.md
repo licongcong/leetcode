@@ -8,7 +8,7 @@ updating...
 
 [Leetcode Algorithms Problems](./algorithms/README.md)  I have solved `55`/`429` problems.
 
-[Leetcode Database Problems](./database/README.md)  I have solved `2`/`13` problems.
+[Leetcode Database Problems](./database/README.md)  I have solved `3`/`13` problems.
 
 ### Links:
 [Leetcode Algorithms Problems](https://leetcode.com/problemset/algorithms/)
