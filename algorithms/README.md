@@ -9,6 +9,7 @@ LeetCode Algorithm
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./removeNthNodeFromEndofList/remove_nth_node_from_end_of_list.cc)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./validParentheses/valid_parentheses.cc)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./mergeTwoSortedLists/merge_two_sorted_lists.cc)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./removeDuplicatesfromSortedArray/remove_duplicates_from_sorted_array.cc)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./removeElement/remove_element.cc)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./searchForARange/search_for_a_range.cc)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./searchInsertPosition/search_insert_position.cc)|Medium|
