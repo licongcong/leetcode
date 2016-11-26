@@ -16,6 +16,7 @@ LeetCode Algorithm
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./powxN/powx_n.cc)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./rotateList/rotate_list.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./RemoveDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
