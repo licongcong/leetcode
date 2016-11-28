@@ -19,6 +19,7 @@ LeetCode Algorithm
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./RemoveDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./reverseLinkedListII/reverse_linked_list_ii.cc)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./reverseWordsinaString/reverse_words_in_a_string.py) [C++](./reverseWordsinaString/reverse_words_in_a_string.cc)|Medium|
