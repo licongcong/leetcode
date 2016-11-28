@@ -18,7 +18,7 @@ LeetCode Algorithm
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./rotateList/rotate_list.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./RemoveDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./removeDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./reverseLinkedListII/reverse_linked_list_ii.cc)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
@@ -27,7 +27,7 @@ LeetCode Algorithm
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./majorityElement/majority_element.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./happyNumber/happy_number.cc)|Easy|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./RemoveLinkedListElements/remove_linked_list_elements.cc)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./removeLinkedListElements/remove_linked_list_elements.cc)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./productofArrayExceptSelf/product_of_array_except_self.cc)|Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./singleNumberIII/single_number_iii.cc)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./uglyNumber/ugly_number.cc)|Easy|
