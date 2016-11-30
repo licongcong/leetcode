@@ -38,5 +38,6 @@ LeetCode Algorithm
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./isSubsequence/is_subsequence.cc)|Medium|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./thirdMaximumNumber/third_maximum_number.cc)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./findAllNumbersDisappearedinanArray/find_all_numbers_disappeared_in_an_array.cc)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./assignCookies/assign_cookies.cc)|Easy|
