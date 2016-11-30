@@ -24,6 +24,7 @@ LeetCode Algorithm
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./reverseWordsinaString/reverse_words_in_a_string.py) [C++](./reverseWordsinaString/reverse_words_in_a_string.cc)|Medium|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./findPeakElement/find_peak_element.cc)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./twoSumII/two_sum_ii.cc)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./majorityElement/majority_element.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
