@@ -6,7 +6,7 @@ The number of questions is increasing recently.
 ### My sulotion
 updating...
 
-[Leetcode Algorithms Problems](./algorithms/README.md)  I have solved `71`/`429` problems.
+[Leetcode Algorithms Problems](./algorithms/README.md)  I have solved `72`/`429` problems.
 
 [Leetcode Database Problems](./database/README.md)  I have solved `6`/`13` problems.
 
