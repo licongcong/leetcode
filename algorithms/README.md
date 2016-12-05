@@ -2,7 +2,7 @@ LeetCode Algorithm
 ======================
 | # | Title | Solution | Difficulty | Tags |
 |---| ----- | -------- | ---------- | --- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./twoSum/two_sum.cc)|Easy|Array|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./twoSum/two_sum.cc)|Easy|Array HashTable|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./addTwoNumbers/add_two_numbers.cc)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./zigzagConversion/zigzag_conversion.cc)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./reverseInteger/reverse_integer.cc)|Easy|
