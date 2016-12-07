@@ -45,6 +45,7 @@ LeetCode Algorithm
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./uglyNumber/ugly_number.cc)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./missingNumber/missing_number.cc)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./firstBadVersion/first_bad_version.cc)|Easy|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./bulbSwitcher/bulb_switcher.cc)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./powerOfFour/power_of_four.cc)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
