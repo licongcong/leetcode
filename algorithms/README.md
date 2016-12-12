@@ -20,6 +20,7 @@ LeetCode Algorithm
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./implementStrStr/implement_strstr.cc)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./searchForARange/search_for_a_range.cc)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./searchInsertPosition/search_insert_position.cc)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./countandSay/count_and_Say.cc)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./powxN/powx_n.cc)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./rotateList/rotate_list.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
