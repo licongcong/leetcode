@@ -17,6 +17,7 @@ LeetCode Algorithm
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./swapNodesinPairs/swap_nodes_in_pairs.cc)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./removeDuplicatesfromSortedArray/remove_duplicates_from_sorted_array.cc)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./removeElement/remove_element.cc)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./implementStrStr/implement_strstr.cc)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./searchForARange/search_for_a_range.cc)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./searchInsertPosition/search_insert_position.cc)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./powxN/powx_n.cc)|Medium|
