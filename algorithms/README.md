@@ -42,6 +42,7 @@ LeetCode Algorithm
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./happyNumber/happy_number.cc)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./removeLinkedListElements/remove_linked_list_elements.cc)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](./countPrimes/count_primes.cc)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./containsDuplicate/contains_duplicate.cc)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./containsDuplicateII/contains_duplicate_ii.cc)|Easy|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](./majorityElementII/majority_element_ii.cc)|Medium|
