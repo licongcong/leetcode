@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Mon Nov 28 10:05:21 2016
 // Source: https://leetcode.com/problems/reverse-linked-list-ii/
 

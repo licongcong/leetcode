@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Tue Nov 15 10:51:05 2016
 // Source: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 

@@ -1,5 +1,5 @@
 -- Author: Congcong Li
--- Mail: ling873495101@gmail.com
+-- Mail: licongcongcn@gmail.com
 -- Time: Sun Nov 27 10:37:36 2016
 -- Source: https://leetcode.com/problems/duplicate-emails/
 

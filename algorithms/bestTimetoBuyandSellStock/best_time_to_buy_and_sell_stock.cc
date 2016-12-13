@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Fri Dec  2 11:33:42 2016
 // Source: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 

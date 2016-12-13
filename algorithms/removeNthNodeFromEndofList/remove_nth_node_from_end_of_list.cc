@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Fri Nov 25 09:40:23 2016
 // Source: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 

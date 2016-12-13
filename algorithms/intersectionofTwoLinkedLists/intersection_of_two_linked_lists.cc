@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Mon Dec  5 11:37:33 2016
 // Source: https://leetcode.com/problems/intersection-of-two-linked-lists/
 

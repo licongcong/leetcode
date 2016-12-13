@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Wed Dec  7 20:47:52 2016
 // Source: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 

@@ -1,5 +1,5 @@
 -- Author: Congcong Li
--- Mail: ling873495101@gmail.com
+-- Mail: licongcongcn@gmail.com
 -- Time: Fri Nov 25 15:59:22 2016
 -- Source: https://leetcode.com/problems/rising-temperature/
 

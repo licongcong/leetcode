@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Sat Nov 19 11:05:53 2016
 // Source: https://leetcode.com/problems/two-sum/
 

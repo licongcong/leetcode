@@ -1,5 +1,5 @@
 -- Author: Congcong Li
--- Mail: ling873495101@gmail.com
+-- Mail: licongcongcn@gmail.com
 -- Time: Wed Nov 23 22:37:48 2016
 -- Source: https://leetcode.com/problems/combine-two-tables/
 

@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Mon Nov 14 09:57:39 2016
 // Source: https://leetcode.com/problems/search-insert-position/
 

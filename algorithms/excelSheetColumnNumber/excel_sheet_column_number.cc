@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Wed Nov  9 21:32:52 2016
 // Source : https://oj.leetcode.com/problems/excel-sheet-column-number/
 

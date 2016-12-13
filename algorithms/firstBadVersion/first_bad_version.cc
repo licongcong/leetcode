@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Thu Nov 17 16:18:56 2016
 // Source: https://leetcode.com/problems/first-bad-version/
 

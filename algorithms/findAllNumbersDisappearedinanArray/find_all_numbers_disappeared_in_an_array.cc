@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Tue Nov 29 10:28:47 2016
 // Source: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 

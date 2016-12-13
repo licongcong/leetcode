@@ -1,5 +1,5 @@
 -- Author: Congcong Li
--- Mail: ling873495101@gmail.com
+-- Mail: licongcongcn@gmail.com
 -- Time: Thu Nov 24 08:50:07 2016
 -- Source: https://leetcode.com/problems/employees-earning-more-than-their-managers/
 

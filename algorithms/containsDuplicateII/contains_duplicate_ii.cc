@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Thu Dec  1 09:03:51 2016
 // Source: https://leetcode.com/problems/contains-duplicate-ii/
 

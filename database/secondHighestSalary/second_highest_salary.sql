@@ -1,5 +1,5 @@
 -- Author: Congcong Li
--- Mail: ling873495101@gmail.com
+-- Mail: licongcongcn@gmail.com
 -- Time: Sun Nov 27 11:50:02 2016
 -- Source: https://leetcode.com/problems/second-highest-salary/
 

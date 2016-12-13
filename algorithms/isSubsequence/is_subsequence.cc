@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Thu Nov 24 11:48:42 2016
 // Source: https://leetcode.com/problems/is-subsequence/
 

@@ -1,6 +1,6 @@
 // Copyright 2016 <lee>
 // Author: Congcong Li
-// Mail: ling873495101@gmail.com
+// Mail: licongcongcn@gmail.com
 // Time: Sat Nov 26 09:48:24 2016
 // Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 
