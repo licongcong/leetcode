@@ -22,6 +22,7 @@ LeetCode Algorithm
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./searchInsertPosition/search_insert_position.cc)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./countandSay/count_and_Say.cc)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./powxN/powx_n.cc)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](lengthofLastWord/length_of_last_word.cc)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./rotateList/rotate_list.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
