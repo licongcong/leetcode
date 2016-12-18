@@ -25,6 +25,7 @@ LeetCode Algorithm
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](lengthofLastWord/length_of_last_word.cc)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./rotateList/rotate_list.cc)|Medium|
 |69|[Sqrt()](https://leetcode.com/problems/sqrtx/)|[C++](./sqrtX/sqrt_x.cc)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./sortColors/sort_colors.cc)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./removeDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./reverseLinkedListII/reverse_linked_list_ii.cc)|Medium|
