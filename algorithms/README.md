@@ -69,4 +69,5 @@ LeetCode Algorithm
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./findAllNumbersDisappearedinanArray/find_all_numbers_disappeared_in_an_array.cc)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](./minimumMovestoEqualArrayElements/minimum_moves_to_equal_array_elements.cc)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./assignCookies/assign_cookies.cc)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./hammingDistance/hamming_distance.cc)|Easy|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[C++](./minimumMovestoEqualArrayElementsII/minimum_moves_to_equal_array_elements_ii.cc)|Medium|
