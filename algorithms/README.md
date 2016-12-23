@@ -44,6 +44,7 @@ LeetCode Algorithm
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./intersectionofTwoLinkedLists/intersection_of_two_linked_lists.cc)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./findPeakElement/find_peak_element.cc)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./twoSumII/two_sum_ii.cc)|Medium|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](./excelSheetColumnTitle/excel_sheet_column_title.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./majorityElement/majority_element.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./happyNumber/happy_number.cc)|Easy|
