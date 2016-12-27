@@ -67,6 +67,7 @@ LeetCode Algorithm
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./isSubsequence/is_subsequence.cc)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./sumofLeftLeaves/sum_of_left_leaves.cc)|Easy|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./arithmeticSlices/arithmetic_slices.cc)|Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./thirdMaximumNumber/third_maximum_number.cc)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./addStrings/add_strings.cc)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[C++](./numberofSegmentsinaString/number_of_segments_in_a_string.cc)|Easy|
