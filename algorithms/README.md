@@ -63,6 +63,7 @@ LeetCode Algorithm
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./bulbSwitcher/bulb_switcher.cc)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./powerOfFour/power_of_four.cc)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./reverseVowelsofaString/reverse_vowels_of_a_string.cc)|Easy|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](./countNumberswithUniqueDigits/count_numbers_with_unique_digits.cc)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./isSubsequence/is_subsequence.cc)|Medium|
