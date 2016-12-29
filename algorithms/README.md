@@ -62,6 +62,7 @@ LeetCode Algorithm
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./firstBadVersion/first_bad_version.cc)|Easy|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./bulbSwitcher/bulb_switcher.cc)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./powerOfFour/power_of_four.cc)|Easy|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./integerBreak/integer_break.cc)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./reverseVowelsofaString/reverse_vowels_of_a_string.cc)|Easy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](./countNumberswithUniqueDigits/count_numbers_with_unique_digits.cc)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
