@@ -36,6 +36,7 @@ LeetCode Algorithm
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./pascalsTriangle/pascals_triangle.cc)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./pascalsTriangleII/pascals_triangle_ii.cc)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./bestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.cc)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](bestfTimetoBuyandSellStockII/best_time_to_buy_and_sell_stock_ii.cc)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./validPalindrome/valid_palindrome.cc)|Easy|
 |135}[Candy](https://leetcode.com/problems/candy/)|[C++](./candy/candy.cc)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
