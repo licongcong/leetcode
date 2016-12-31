@@ -31,6 +31,7 @@ LeetCode Algorithm
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./removeDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./reverseLinkedListII/reverse_linked_list_ii.cc)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./binaryTreeInorderTraversal/binary_tree_inorder_traversal.cc)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](./sameTree/same_tree.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./pascalsTriangle/pascals_triangle.cc)|Easy|
