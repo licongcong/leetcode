@@ -30,6 +30,7 @@ LeetCode Algorithm
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./sortColors/sort_colors.cc)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./removeDuplicatesfromSortedArrayII/remove_duplicates_from_sorted_array_ii.cc)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./removeDuplicatesfromSortedList/remove_duplicates_from_sorted_list.cc)|Easy|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](./grayCode/gray_code.cc)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./reverseLinkedListII/reverse_linked_list_ii.cc)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./binaryTreeInorderTraversal/binary_tree_inorder_traversal.cc)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](./sameTree/same_tree.cc)|Easy|
