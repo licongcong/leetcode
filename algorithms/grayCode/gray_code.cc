@@ -26,6 +26,7 @@
 // For now, the judge is able to judge based on one instance of gray code
 // sequence. Sorry about that.
 
+// Solution 1
 class Solution {
  public:
   vector<int> grayCode(int n) {
@@ -44,6 +45,18 @@ class Solution {
         result.push_back(result[i]+diff);
       }
       reverse(result.begin()+diff, result.end());
+    }
+    return result;
+  }
+};
+
+// Solution 2
+class Solution {
+ public:
+  vector<int> grayCode(int n) {
+    vector<int> result;
+    for (int i=0; i < 1<<n; i++) {
+      result.push_back(i^(i>>1));
     }
     return result;
   }
