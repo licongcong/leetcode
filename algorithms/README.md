@@ -45,6 +45,7 @@ LeetCode Algorithm
 |135|[Candy](https://leetcode.com/problems/candy/)|[C++](./candy/candy.cc)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./singleNumber/single_number.cc)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./linkedListCycle/linked_list_cycle.cc)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./linkedListCycleII/linked_list_cycle_ii.cc)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](./binaryTreePreorderTraversal/binary_tree_preorder_traversal.cc)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](binaryTreePostorderTraversal/binary_tree_postorder_traversal.cc)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./reverseWordsinaString/reverse_words_in_a_string.py) [C++](./reverseWordsinaString/reverse_words_in_a_string.cc)|Medium|
