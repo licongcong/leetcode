@@ -87,6 +87,7 @@ LeetCode Algorithm
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./thirdMaximumNumber/third_maximum_number.cc)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./addStrings/add_strings.cc)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[C++](./numberofSegmentsinaString/number_of_segments_in_a_string.cc)|Easy|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](./findAllDuplicatesinanArray/find_all_duplicates_in_an_array.cc)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](./addTwoNumbersII/add_two_numbers_ii.cc)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./findAllNumbersDisappearedinanArray/find_all_numbers_disappeared_in_an_array.cc)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](./minimumMovestoEqualArrayElements/minimum_moves_to_equal_array_elements.cc)|Medium|
