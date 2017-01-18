@@ -81,6 +81,7 @@ LeetCode Algorithm
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](./countNumberswithUniqueDigits/count_numbers_with_unique_digits.cc)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./validPerfectSquare/valid_perfect_square.cc)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./guessNumberHigherorLower/guess_number_higher_or_lower.cc)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](findtheDifference/find_the_difference.cc)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./isSubsequence/is_subsequence.cc)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./sumofLeftLeaves/sum_of_left_leaves.cc)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[C++](./convertaNumbertoHexadecimal/convert_a_number_to_hexadecimal.cc)|Easy|
