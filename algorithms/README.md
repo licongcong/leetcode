@@ -74,6 +74,7 @@ LeetCode Algorithm
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[C++](./hIndexII/h_index_ii.cc)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./firstBadVersion/first_bad_version.cc)|Easy|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./bulbSwitcher/bulb_switcher.cc)|Medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./powerofThree/power_of_three.cc)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./oddEvenLinkedList/odd_even_linked_list.cc)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./countingBits/counting_bits.cc)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./powerOfFour/power_of_four.cc)|Easy|
