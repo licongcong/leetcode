@@ -73,6 +73,7 @@ LeetCode Algorithm
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./hIndex/h_index.cc)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[C++](./hIndexII/h_index_ii.cc)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./firstBadVersion/first_bad_version.cc)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./moveZeroes/move_zeroes.cc)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./nimGame/nim_game.cc)|Easy|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](./bulbSwitcher/bulb_switcher.cc)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./powerofThree/power_of_three.cc)|Easy|
