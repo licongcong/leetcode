@@ -68,6 +68,7 @@ LeetCode Algorithm
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./deleteNodeinaLinkedList/delete_node_in_a_linked_list.cc)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./productofArrayExceptSelf/product_of_array_except_self.cc)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./validAnagram/valid_anagram.cc)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./addDigits/add_digits.cc)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./singleNumberIII/single_number_iii.cc)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./uglyNumber/ugly_number.cc)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./missingNumber/missing_number.cc)|Medium|
