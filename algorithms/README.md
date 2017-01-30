@@ -58,6 +58,7 @@ LeetCode Algorithm
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./majorityElement/majority_element.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./rotateArray/rotate_array.cc)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./numberof1Bits/number_of_1_bits.cc)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./happyNumber/happy_number.cc)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./removeLinkedListElements/remove_linked_list_elements.cc)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](./countPrimes/count_primes.cc)|Easy|
