@@ -113,3 +113,4 @@ LeetCode Algorithm
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./islandPerimeter/island_perimeter.cc)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./numberComplement/number_complement.cc)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[C++](./totalHammingDistance/total_hamming_distance.cc)|Medium|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./maxConsecutiveOnes/max_consecutive_ones.cc)|Easy|
