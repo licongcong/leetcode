@@ -37,6 +37,7 @@ LeetCode Algorithm
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](./sameTree/same_tree.cc)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./maximumDepthOfBinaryTree/maximum_depth_of_binary_tree.cc)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](./minimumDepthofBinaryTree/minimum_depth_of_binary_tree.cc)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./pathSum/path_sum.cc)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./pascalsTriangle/pascals_triangle.cc)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./pascalsTriangleII/pascals_triangle_ii.cc)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./bestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.cc)|Easy|
