@@ -48,11 +48,12 @@ class Solution {
     
     int result = 0;
     for (int i=0; i < timeSeries.size()-1; i++) {
-      if (timeSeries[i+1]-timeSeries[i] < duration) {
-        result = result + timeSeries[i+1] - timeSeries[i];
-      } else {
-        result += duration;
-      }
+      // if (timeSeries[i+1]-timeSeries[i] < duration) {
+      //   result = result + timeSeries[i+1] - timeSeries[i];
+      // } else {
+      //   result += duration;
+      // }
+      result += min(timeSeries[i+1]-timeSeries[i], duration);
     }
     
     return result + duration;
