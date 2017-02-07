@@ -119,3 +119,4 @@ LeetCode Algorithm
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./maxConsecutiveOnes/max_consecutive_ones.cc)|Easy|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](./constructtheRectangle/construct_the_rectangle.cc)|Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](./teemoAttacking/teemo_attacking.cc)|Medium|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./nextGreaterElementI/next_greater_element_i.cc)|Easy|
