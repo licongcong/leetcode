@@ -116,6 +116,7 @@ LeetCode Algorithm
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./islandPerimeter/island_perimeter.cc)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./numberComplement/number_complement.cc)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[C++](./totalHammingDistance/total_hamming_distance.cc)|Medium|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](./licenseKeyFormatting/license_key_formatting.cc)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./maxConsecutiveOnes/max_consecutive_ones.cc)|Easy|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](./constructtheRectangle/construct_the_rectangle.cc)|Easy|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](./teemoAttacking/teemo_attacking.cc)|Medium|
