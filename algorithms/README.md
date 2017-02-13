@@ -59,6 +59,7 @@ LeetCode Algorithm
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](./excelSheetColumnTitle/excel_sheet_column_title.cc)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./majorityElement/majority_element.cc)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[C++](./excelSheetColumnNumber/excel_sheet_column_number.cc)|Easy|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./largestNumber/largest_number.cc)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./rotateArray/rotate_array.cc)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./reverseBits/reverse_bits.cc)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./numberof1Bits/number_of_1_bits.cc)|Easy|
