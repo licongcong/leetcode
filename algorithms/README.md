@@ -126,3 +126,4 @@ LeetCode Algorithm
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](./teemoAttacking/teemo_attacking.cc)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./nextGreaterElementI/next_greater_element_i.cc)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./nextGreaterElementII/next_greater_element_ii.cc)|Medium|
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[C++](./base7/base_7.cc)|Easy|
