@@ -128,3 +128,4 @@ LeetCode Algorithm
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./nextGreaterElementI/next_greater_element_i.cc)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./nextGreaterElementII/next_greater_element_ii.cc)|Medium|
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[C++](./base7/base_7.cc)|Easy|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[C++](./findLargestValueinEachTreeRow/find_largest_value_in_each_tree_row.cc)|Medium|
